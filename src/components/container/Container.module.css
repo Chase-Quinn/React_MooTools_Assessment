@@ -1,0 +1,9 @@
+.container{
+    width: 10rem;
+    height: 10rem;
+}
+
+.words{
+    font-size: large;
+    text-align: center;
+}
