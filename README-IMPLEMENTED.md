@@ -12,3 +12,5 @@
 - Added id to React created div (#words)
 - Added: document.getElementById('words').innerHTML = text; to the MyFunComponent.ButtonClicked method to have communication from the MooTools Component to the React div (#words)
 - Created function to show "Four" to both of the divs from the React component as well, making it bi-directional from the React Component and the MooTools component
+
+**This can be done differently using state, but I am wondering if simplicity is the best option in this one situation**
